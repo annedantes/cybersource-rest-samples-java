@@ -1,0 +1,22 @@
+{
+  "clientReferenceInformation": {
+    "code": "test_transaction_001"
+  },
+  "processingInformation": {
+    "capture": true
+  },
+  "paymentInformation": {
+    "card": {
+      "number": "411111111111111",
+      "expirationMonth": "12",
+      "expirationYear": "2030",
+      "cvv": "123"
+    }
+  },
+  "orderInformation": {
+    "amountDetails": {
+      "totalAmount": "100.00",
+      "currency": "USD"
+    }
+  }
+}
