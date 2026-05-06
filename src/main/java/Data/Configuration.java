@@ -8,7 +8,7 @@ public class Configuration {
 
 		// HTTP_Signature = http_signature and JWT = jwt
 		props.setProperty("authenticationType", "http_signature");
-		props.setProperty("merchantID", "testrest");
+		props.setProperty("merchantID", "testvisa_1778041793");
 		props.setProperty("runEnvironment", "apitest.cybersource.com");
 		props.setProperty("requestJsonPath", "src/main/resources/request.json");
 
@@ -25,8 +25,8 @@ public class Configuration {
 
 		props.setProperty("keysDirectory", "src/main/resources");
 		// HTTP Parameters
-		props.setProperty("merchantKeyId", "08c94330-f618-42a3-b09d-e1e43be5efda");
-		props.setProperty("merchantsecretKey", "yBJxy6LjM2TmcPGu+GaJrHtkke25fPpUX+UY6/L/1tE=");
+		props.setProperty("merchantKeyId", "8bb6a685-c06f-4087-909f-718dcee2ac54");
+		props.setProperty("merchantsecretKey", "RM6fxo7ZhK3qXpPj48nLbuqIpeyJPW3Yp8A+lTirXKQ=");
 		// Logging to be enabled or not.
 		props.setProperty("enableLog", "true");
 		// Log directory Path
@@ -62,7 +62,7 @@ public class Configuration {
 
 		// HTTP_Signature = http_signature and JWT = jwt
 		props.setProperty("authenticationType", "http_signature");
-		props.setProperty("merchantID", "testrest_cpctv");
+		props.setProperty("merchantID", "testvisa_1778041793");
 		props.setProperty("runEnvironment", "apitest.cybersource.com");
 		props.setProperty("requestJsonPath", "src/main/resources/request.json");
 
@@ -75,8 +75,8 @@ public class Configuration {
 
 		props.setProperty("keysDirectory", "src/main/resources");
 		// HTTP Parameters
-		props.setProperty("merchantKeyId", "964f2ecc-96f0-4432-a742-db0b44e6a73a");
-		props.setProperty("merchantsecretKey", "zXKpCqMQPmOR/JRldSlkQUtvvIzOewUVqsUP0sBHpxQ=");
+		props.setProperty("merchantKeyId", "8bb6a685-c06f-4087-909f-718dcee2ac54");
+		props.setProperty("merchantsecretKey", "RM6fxo7ZhK3qXpPj48nLbuqIpeyJPW3Yp8A+lTirXKQ=");
 		// Logging to be enabled or not.
 		props.setProperty("enableLog", "true");
 		// Log directory Path
@@ -95,7 +95,7 @@ public class Configuration {
 
 		// HTTP_Signature = http_signature and JWT = jwt
 		props.setProperty("authenticationType", "jwt");
-		props.setProperty("merchantID", "qaebc2");
+		props.setProperty("merchantID", "testvisa_1778041793");
 		props.setProperty("runEnvironment", "apitest.cybersource.com");
 		props.setProperty("requestJsonPath", "src/main/resources/request.json");
 
